@@ -1,0 +1,25 @@
+.results-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+}
+
+.winner-result span {
+    font-size: 32px;
+}
+
+.winner-title {
+    color: Red;
+    font-weight: 700;
+}
+
+.show-results-btn {
+    background-color: navy;
+    font-size: 32px;
+    color: white;
+    width: 300px;
+    height: 70px;
+    border: 0;
+    border-radius: 10px;
+}

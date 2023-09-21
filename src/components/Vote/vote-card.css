@@ -1,0 +1,23 @@
+
+.vote-card {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid navy;
+    border-radius: 5px;
+    background-color: aqua;
+    width: 150px;
+    height: 275px;
+}
+
+.vote-card-content {
+    font-size: 56px;
+}
+
+.vote-card-amount {
+    font-size: 48px;
+    color: navy;
+    font-weight: 700;
+}
